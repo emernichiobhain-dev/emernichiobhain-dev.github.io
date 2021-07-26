@@ -1,0 +1,2 @@
+(self.webpackChunkportfolio_site=self.webpackChunkportfolio_site||[]).push([[678],{704:function(e,t,l){"use strict";l.r(t);var o=l(294);t.default=function(){return o.createElement("div",null,"Hello World 👋")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-843ffcdfe16f297f4a5e.js.map

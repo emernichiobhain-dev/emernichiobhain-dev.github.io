@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://portfolio-site/./src/pages/index.js"],"names":[],"mappings":"wIAMA,UAJkB,WAChB,OAAO","file":"component---src-pages-index-js-843ffcdfe16f297f4a5e.js","sourcesContent":["import * as React from \"react\"\n\nconst IndexPage = () => {\n  return <div>Hello World 👋</div>\n}\n\nexport default IndexPage\n"],"sourceRoot":""}
